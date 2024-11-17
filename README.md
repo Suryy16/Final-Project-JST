@@ -1,6 +1,6 @@
 # Final-Project-JST
 
-This repository contains the final project for JST, primarily using Jupyter Notebook.
+This is me and my team Final Poject for Neural Network. We simply want to use Backpropagation to predict Grape Quality.
 
 ## Contents
 - Jupyter Notebook files
